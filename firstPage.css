@@ -1,7 +1,6 @@
 .container{
     margin: auto;
     width: 25%;
-   
     text-align: center;
     background-color:white;
     margin-top: 20%;
@@ -34,4 +33,7 @@ body
     text-align: left;
     background-color:#4e9ad9 ;
     height: 40px;
+}
+a{
+    color: white;
 }
