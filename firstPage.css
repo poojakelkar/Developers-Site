@@ -1,9 +1,10 @@
 .container{
     margin: auto;
     width: 25%;
-    padding: 10px;
+   
     text-align: center;
     background-color:white;
+    margin-top: 20%;
     
 }
 .button
@@ -27,4 +28,10 @@ body
 {
     width: 200px;
     font-size: 15px;
+}
+.header
+{
+    text-align: left;
+    background-color:#4e9ad9 ;
+    height: 40px;
 }
