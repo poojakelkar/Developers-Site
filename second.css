@@ -1,3 +1,7 @@
 .container{
     padding: 30px;
 }
+.btn btn-outline-info my-2 my-sm-0
+{
+    right: 0;
+}
