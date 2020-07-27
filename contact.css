@@ -1,7 +1,10 @@
 .container{
-    background: url(https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+    background: url(https://www.axisbank.com/images/default-source/revamp_new/contact-us/contactus.jpg);
     background-size: fixed;
     background-position: top;
     background-size: 1000px;
-    height: 300px;
+    height: 120px;
+}
+h1{
+    align: left;
 }
