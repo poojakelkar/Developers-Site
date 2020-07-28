@@ -1,8 +1,11 @@
-.container{
+.header__content{
     background: url(https://offers.hubspot.com/hubfs/assets/hubspot.com/landing-pages/sales/Images/contact_sales_2-compressor.jpg);
     background-size: fixed;
-    background-position: top;
-    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-position-x: 50%;
+    background-position-y: center;
+    background-size: cover;
     height: 500px;
 }
 .header{
