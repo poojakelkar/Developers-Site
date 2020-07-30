@@ -9,16 +9,14 @@
     height: 500px;
 }
 .header{
-    font-size: 40px;
+    font-size: 60px;
     color: whitesmoke;
     padding-top:50px ;
     text-align: center;
 
 }
-.row-fluid {
-    width: 100%;
-    *zoom: 1;
-}
-* {
-    box-sizing: border-box;
+.header1{
+    text-align: center;
+    color: thistle;
+    font-size: 30px;
 }
