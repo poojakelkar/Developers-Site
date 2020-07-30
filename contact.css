@@ -10,9 +10,10 @@
 }
 .header{
     font-size: 40px;
-    color: aliceblue;
+    color: ;
     padding-top:50px ;
-    padding-left: 5em;
+    text-align: center;
+
 }
 .row-fluid {
     width: 100%;
