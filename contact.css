@@ -20,3 +20,18 @@
     color: thistle;
     font-size: 30px;
 }
+.contact{
+    text-align: center;
+    padding: 20px;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 70px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: grey;
+  }
+ 
+  
