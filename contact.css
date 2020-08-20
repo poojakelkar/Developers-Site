@@ -51,11 +51,11 @@
       max-width: 900px;
       padding-top: 200px;
       margin: 0 auto;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-bottom: 0px;
-    margin-left: auto;
-    border-top: 1px solid #4a4a4a;
+     margin-top: 0px;
+     margin-right: auto;
+     margin-bottom: 0px;
+     margin-left: auto;
+      border-top: 1px solid #4a4a4a;
   }
   #footer-section-container .footer-section.contribute {
     display: flex;
@@ -63,5 +63,12 @@
     justify-content: center;
     padding-left: 60px;
   }
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
  
   
