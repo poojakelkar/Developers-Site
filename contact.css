@@ -34,41 +34,12 @@
     color: rgb(68, 64, 64);
   }
   #footer{
-    text-align: center;
-    clear: both;
-    width: 100%;
-    margin: 60px 0 0;
-    padding: 30px 0;
-    font-size: 14px;
-    color: #aaa;
-    background-color: #343434;
-    font-weight: 300;
-    flex-shrink: 0;
+       display: inline-block;
+      margin: 500px;
+      border: 1px solid #eee;
+      box-shadow: 0 2px 2px #ccc;
+      width: 200px;
+      padding: 100px;
   }
-  #footer-section-container{
-      display: flex;
-      justify-content: space-around;
-      max-width: 900px;
-      padding-top: 200px;
-      margin: 0 auto;
-     margin-top: 0px;
-     margin-right: auto;
-     margin-bottom: 0px;
-     margin-left: auto;
-      border-top: 1px solid #4a4a4a;
-  }
-  #footer-section-container .footer-section.contribute {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-left: 60px;
-  }
-  p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
- 
+  
   
