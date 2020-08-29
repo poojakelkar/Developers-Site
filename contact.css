@@ -27,19 +27,27 @@
 }
 .fa {
     padding: 20px;
-    font-size: 70px;
+    font-size: 3em;
     width: 50px;
     text-align: center;
     text-decoration: none;
     color: rgb(68, 64, 64);
   }
   #footer{
-       display: inline-block;
-      margin: 500px;
+       position: absolute;
+      bottom:0;
       border: 1px solid #eee;
       box-shadow: 0 2px 2px #ccc;
-      width: 200px;
-      padding: 100px;
+      width: 100%;
   }
-  
-  
+
+.info-col{
+    box-shadow: 0 2px 2px #ccc;
+    height: 300px;
+    border: 1px solid #eee;
+    padding: 10px;
+    border-radius: 10px;
+}
+.row{
+    margin:20px auto;
+}
